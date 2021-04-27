@@ -2,3 +2,15 @@
   text-align: center;
   margin-top: 30px;
 }
+
+button {
+  padding: 10px;
+}
+
+.count {
+  padding: 10px;
+}
+
+input {
+  margin-bottom: 15px;
+}
